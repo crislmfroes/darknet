@@ -1,0 +1,5 @@
+classes = 16
+train = data/train-at-home-2020.txt
+valid = data/valid-at-home-2020.txt
+names = data/at-home-2020.names
+backup = backup/
